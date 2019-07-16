@@ -1,0 +1,26 @@
+{
+  "name": "@haripriya.kalamata/loginscreen",
+  "version": "1.0.3",
+  "description": "A react native component for LoginPage",
+  "main": "src/index.js",
+  "keywords": [
+    "react-native",
+    "loginscreen"
+  ],
+  "peerDependencies": {
+    "react": "^16.0.0-beta.5",
+    "react-native": "^0.49.1"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.4",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.4",
+    "react-test-renderer": "16.3.1"
+  },
+ "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek3255/react-native-infinite-looping-scroll.git"
+  },
+  "author": "Haripriya <haripriya.kalamata@gmail.com>",
+  "license": "MIT"
+}
